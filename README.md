@@ -1,5 +1,9 @@
 # We_Rate_Dogs Wrangling Project
 
+## Introduction
+Data Wrangling is an important and necessary step to data analysis. For data wrangling there are three parts: gathering, assessing, and cleaning. Gathering consists of finding the right datasets. Assessing consists at looking at the dataset and finding both quality and tidiness issues. Cleaning consists of using code to fix the issues you found when assesing. The dataset that we will be wrangling (and analyzing and visualizing) is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs.
+
+
 ## Step 1: Gather Data
 The Data is gathered from 3 resources:
 
