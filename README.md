@@ -1,5 +1,4 @@
-# We_Rate_Dogs
-# Udacity project
+# We_Rate_Dogs Wrangling 
 
 ## Step 1: Gather Data
 The Data is gathered from 3 resources:
