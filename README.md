@@ -1,4 +1,4 @@
-# We_Rate_Dogs Wrangling 
+# We_Rate_Dogs Wrangling Project
 
 ## Step 1: Gather Data
 The Data is gathered from 3 resources:
